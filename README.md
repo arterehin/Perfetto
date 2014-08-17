@@ -15,7 +15,3 @@ Put the script at the [bottom](https://developer.yahoo.com/performance/rules.htm
 ```html
 <script src="perfetto/code/perfetto.js"></script>
 ```
-
-## License
-
-The code and the documentation are released under the [MIT License](LICENSE).
