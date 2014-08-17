@@ -1,4 +1,4 @@
-# Perfetto - Pixel Perfect v1.0
+# Perfetto - Pixel Perfect
 
 Pixel Perfect плагин для создания качественной, попиксельной верстки.
 
