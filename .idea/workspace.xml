@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1959d871-2b43-406f-a578-95f58498414b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perfetto/code/perfetto.css" afterPath="$PROJECT_DIR$/perfetto/code/perfetto.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="perfetto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +12,7 @@
     <file path="/scripts.js" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407853578376" ignored="false" />
     <file path="/main.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407850639612" ignored="false" />
     <file path="/home.html" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407678081223" ignored="false" />
-    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408276180455" ignored="false" />
+    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408276334887" ignored="false" />
     <file path="/index.php" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275023816" ignored="false" />
     <file path="/perfetto.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275464522" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="62" selection-start="523" selection-end="523" vertical-scroll-proportion="0.40690506">
+            <state line="23" column="109" selection-start="671" selection-end="671" vertical-scroll-proportion="0.42540073">
               <folding />
             </state>
           </provider>
@@ -354,7 +352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="62" selection-start="523" selection-end="523" vertical-scroll-proportion="0.40690506">
+        <state line="23" column="109" selection-start="671" selection-end="671" vertical-scroll-proportion="0.42540073">
           <folding />
         </state>
       </provider>

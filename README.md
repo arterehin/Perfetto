@@ -20,4 +20,5 @@ Pixel Perfect плагин для создания качественной, п�
 
 ## Как пользоваться?
 
-  1. <img src="http://www.letscode.me/perfetto/docs/src/01.png">
+  1. <img src="http://www.letscode.me/perfetto/docs/src/01.png"> - показать или скрыть рабочий слой.
+  2. <img src="http://www.letscode.me/perfetto/docs/src/02.png"> - зафиксировать или освободить рабочий слой.
