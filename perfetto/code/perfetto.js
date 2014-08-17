@@ -428,7 +428,7 @@ var Perfetto = new function() {
             lock: false,
             url: '/perfetto/layers/index.jpg',
             position: [0, 0],
-            opacity: 1,
+            opacity: 0.5,
             zIndex: 1000
         }
     }
