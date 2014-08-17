@@ -2,8 +2,8 @@
  * Perfetto - Pixel Perfect
  *
  * @author      Artem Terekhin
- * @website     http://www.letscode.me
  * @version     0.0.1
+ * @demo        http://www.letscode.me/perfetto/
  */
 
 var Perfetto = new function() {
