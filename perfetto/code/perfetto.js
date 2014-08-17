@@ -1,3 +1,11 @@
+/**
+ * Perfetto - Pixel Perfect
+ *
+ * @author      Artem Terekhin
+ * @website     http://www.letscode.me
+ * @version     0.0.1
+ */
+
 var Perfetto = new function() {
     this.init = function() {
         this.generateUI();
