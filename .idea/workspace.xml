@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1959d871-2b43-406f-a578-95f58498414b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="perfetto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.46239212">
+            <state line="19" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.351418">
               <folding />
             </state>
           </provider>
@@ -352,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.46239212">
+        <state line="19" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.351418">
           <folding />
         </state>
       </provider>
