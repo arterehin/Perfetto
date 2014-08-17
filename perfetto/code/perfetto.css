@@ -111,13 +111,16 @@
 
 .pf_form input[type="text"] {
     padding: 0 5px;
-    width: 190px;
+    width: 200px;
     height: 23px;
     border: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: Arial, "Nimbus Sans L", Helvetica, sans-serif;
 }
 
 .pf_field_group input[type="text"] {
-    width: 85px;
+    width: 95px;
 }
 
 .pf_layer {

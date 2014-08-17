@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1959d871-2b43-406f-a578-95f58498414b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perfetto/code/perfetto.css" afterPath="$PROJECT_DIR$/perfetto/code/perfetto.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="perfetto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,7 +14,9 @@
     <file path="/scripts.js" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407853578376" ignored="false" />
     <file path="/main.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407850639612" ignored="false" />
     <file path="/home.html" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407678081223" ignored="false" />
-    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408274044241" ignored="false" />
+    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408276180455" ignored="false" />
+    <file path="/index.php" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275023816" ignored="false" />
+    <file path="/perfetto.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275464522" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +39,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="61" selection-start="323" selection-end="348" vertical-scroll-proportion="-8.125">
+            <state line="22" column="62" selection-start="523" selection-end="523" vertical-scroll-proportion="0.40690506">
               <folding />
             </state>
           </provider>
@@ -75,11 +70,13 @@
         <option value="$PROJECT_DIR$/perfetto/js/perfetto.js" />
         <option value="$PROJECT_DIR$/perfetto/code/style.css" />
         <option value="$PROJECT_DIR$/../olivia/home.html" />
-        <option value="$PROJECT_DIR$/perfetto/code/perfetto.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../mobi/css/main.css" />
         <option value="$PROJECT_DIR$/../mobi/index.html" />
         <option value="$PROJECT_DIR$/../mobi/js/scripts.js" />
+        <option value="$PROJECT_DIR$/perfetto/code/perfetto.js" />
+        <option value="$PROJECT_DIR$/../letscode-local/perfetto/index.php" />
+        <option value="$PROJECT_DIR$/perfetto/code/perfetto.css" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -272,11 +269,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/perfetto/code/perfetto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../olivia/js/jquery.core-ui-select.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="93" selection-start="1354" selection-end="1444" vertical-scroll-proportion="0.6118665" />
@@ -297,22 +289,12 @@
         <state line="94" column="9" selection-start="2641" selection-end="2641" vertical-scroll-proportion="0.92583436" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/perfetto/code/perfetto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.018495684" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../olivia/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="225" column="65" selection-start="10227" selection-end="10227" vertical-scroll-proportion="1.8767471" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../letscode-local/htacess/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perfetto/code/perfetto.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
@@ -349,9 +331,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/perfetto/code/perfetto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="12" selection-start="5991" selection-end="5991" vertical-scroll-proportion="0.7697201">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../letscode-local/perfetto/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.3811944">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perfetto/code/perfetto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="545" selection-end="545" vertical-scroll-proportion="0.27743527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+        <state line="22" column="62" selection-start="523" selection-end="523" vertical-scroll-proportion="0.40690506">
           <folding />
         </state>
       </provider>
