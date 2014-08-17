@@ -341,7 +341,6 @@ var Perfetto = new function() {
 
     this.changeURL = function(){
         this.layer.innerHTML = '<img src="'+this.o.layer.url+'"/>';
-        this.layer.style.backgroundImage = 'url('+this.o.layer.url+')';
     }
 
     this.changePosition = function(){
