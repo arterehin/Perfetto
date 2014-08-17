@@ -4,24 +4,13 @@ Pixel Perfect плагин для создания качественной, п�
 
 ## Быстры старт
 
-<ul>
-<li>Скачайте [последнюю версию](https://github.com/letscodeme/Perfetto/archive/master.zip) плагина.</li>
-<li>
-Подключите скрипт:
+<code>1.</code> Скачайте [последнюю версию](https://github.com/letscodeme/Perfetto/archive/master.zip) плагина.
+<code>2.</code> Подключите скрипт:
 ```html
 <script src="perfetto/code/perfetto.js"></script>
 ```
-</li>
-<li>
-Подключите таблицу стилей:
+<code>3.</code> Подключите таблицу стилей:
 ```html
 <link rel="stylesheet" href="perfetto/code/perfetto.css" />
 ```
-</li>
-
-</ul>
-
-
-
-
 
