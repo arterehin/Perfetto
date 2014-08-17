@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1959d871-2b43-406f-a578-95f58498414b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perfetto/code/perfetto.js" afterPath="$PROJECT_DIR$/perfetto/code/perfetto.js" />
     </list>
     <ignored path="perfetto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,7 +12,7 @@
     <file path="/scripts.js" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407853578376" ignored="false" />
     <file path="/main.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407850639612" ignored="false" />
     <file path="/home.html" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1407678081223" ignored="false" />
-    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408287221620" ignored="false" />
+    <file path="/README.md" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408287316773" ignored="false" />
     <file path="/index.php" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275023816" ignored="false" />
     <file path="/perfetto.css" changelist="1959d871-2b43-406f-a578-95f58498414b" time="1408275464522" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="197" selection-end="197" vertical-scroll-proportion="0.14796548">
+            <state line="9" column="21" selection-start="210" selection-end="210" vertical-scroll-proportion="0.16646115">
               <folding />
             </state>
           </provider>
@@ -361,7 +360,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="197" selection-end="197" vertical-scroll-proportion="0.14796548">
+        <state line="9" column="21" selection-start="210" selection-end="210" vertical-scroll-proportion="0.16646115">
           <folding />
         </state>
       </provider>
